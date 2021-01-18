@@ -3,8 +3,8 @@ This is a bank management / Atm Simulator Desktop application build on Core Java
 
 # Tech Stack
 
-- Core JAVA 
+- Core Java 
 - Swing 
 - MySQL
-- SQL
+- Eclipse IDE
 
