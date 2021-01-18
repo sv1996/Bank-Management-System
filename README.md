@@ -1,2 +1,2 @@
 # Bank-Management-System
-All Class files is in src Folder
+This is a bank management / Atm Simulator Desktop application build on Core Java Swing and Mysql Database.
