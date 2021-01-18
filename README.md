@@ -71,7 +71,10 @@ create table signup3(formno varchar(10), account varchar(30), cardno varchar(25)
 
 # Usage
 
-1. 
+1. First We connect mysql using jdbc API.
+2. We make our database and required tables in mysql workbench or using Mysql Shell Command Line.
+3. First class is Login.java and here we create a bank account of customer by using credentials (Pin , name , email etc) 
+4. 
 
 
 
